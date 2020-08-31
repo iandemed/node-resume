@@ -1,0 +1,29 @@
+{
+    "name": "Ian de Medeiros",
+    "website": "https://iandemed.github.io/",
+    "linkedin": "https://www.linkedin.com/in/ian-de-medeiros",
+    "github": "iandemed",
+    "email": "iandemed@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "R",
+        "Stata",
+        "Matlab"
+    ],
+    "previousExperience": [
+        "Financial Planning Assistant at Jensen & Associates",
+        "Senior Research Assistant at The Board of Governors of the Federal Reserve System",
+        "Research Assistant at The Board of Governors of the Federal Reserve System"
+    ],
+    "education": [
+        "Miami University, Master's of Arts in Economics",
+        "Miami University, Bachelor's of Science in Statistics",
+        "Miami University, Bachelor's of Arts in Economics"
+    ],
+    "highlightedProjects": [
+        "Federal Reserve Prediction Poll",
+        "D&D Monster Sheet React App"
+    ]
+}
