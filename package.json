@@ -1,6 +1,6 @@
 {
   "name": "iandemed-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Current (April 2020) plain text resume that can be imported as an npm package and viewed via the command line or terminal",
   "main": "index.js",
   "scripts": {
